@@ -1,10 +1,8 @@
-How its works?
-Very simple add line or/and check exist ;)
-
-Example:
-Path
+### Path:
 /Eurasia/Europa/Poland
 /man.txt
 
-Line:
+### Line:
 30,Warsaw,Ruby dev,example@example.com
+
+Good luck & have fun !;)
